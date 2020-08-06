@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{72517E1F-8823-FC15-D5BF-41E4E1159CD1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Rotator.cs" Line="17" Column="58" />
+      <File FileName="Assets/Pin.cs" />
+      <File FileName="Assets/Spawner.cs" />
+      <File FileName="Assets/GameManager.cs" Line="25" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="aa-Clone" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bd48dbfd-4a2c-41e5-9ceb-d0d37e940ac8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
